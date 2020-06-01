@@ -22,9 +22,9 @@ Two different Nucleotide sequences of Sars Cov-2 are read from the NCBI gene ban
 Get dna.py,Main_Final.py,scov.py,helper.py python scripts and place them in a directory. Download the 2 different Sars Cov-2 nucleotide sequences from NCBI website. In the python script Main_Final.py at line 9 and 14 respectively specify file-1 and file-2 nucleotide sequence downloaded fron NCBI. Run the script Main_Final.py file and wait for the output file Sars_Cov-2_Gene_Mutation.jpg under the same directory. The python shell would also print out the mutated nucleotides for each gene as below.
 
 ##### Example Shell Output
-Mutated DNA Base 100 in China and Base 255 in USA at position (74, 6) For the Gene ORF1ab
-Mutated DNA Base 255 in China and Base 100 in USA at position (12, 10) For the Gene ORF8
-Mutated DNA Base 0 in China and Base 255 in USA at position (17, 24) For the Gene N
+* Mutated DNA Base 100 in China and Base 255 in USA at position (74, 6) For the Gene ORF1ab
+* Mutated DNA Base 255 in China and Base 100 in USA at position (12, 10) For the Gene ORF8
+* Mutated DNA Base 0 in China and Base 255 in USA at position (17, 24) For the Gene N
 
 ## What are supplied in the repo.
 
