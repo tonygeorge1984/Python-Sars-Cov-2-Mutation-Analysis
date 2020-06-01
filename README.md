@@ -7,6 +7,8 @@ Two different Nucleotide sequences of Sars Cov-2 are read from the NCBI gene ban
 
 ## Sars Cov -2 Virus genome is sequenced to have the following genes.
 
+![](images/2019-coronavirus.png)
+
 1. gene=ORF1ab.  --> Open Reading Frame 1 which encodes for the proteins ORF1a and ORF1ab
 2. gene=S        --> This gene encodes Spike Protein which docks with the ACE2 receptors of the human cell before endocytosis.
 3. gene=ORF3a    --> Open Reading Frame 3 which encodes for ORF3a protein.
