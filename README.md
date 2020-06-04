@@ -1,6 +1,6 @@
 # Python-Sars Cov-2 Mutation Analysis
 
-![For a complete explanation of this on Medium](https://medium.com/@tony.george1984/python-and-numpy-for-sars-cov-2-gene-mutation-analysis-805833fbb23f?source=friends_link&sk=2045a9c7b04d407343db4d54ed3f2f34)
+[For a complete explanation of this on Medium](https://medium.com/@tony.george1984/python-and-numpy-for-sars-cov-2-gene-mutation-analysis-805833fbb23f?source=friends_link&sk=2045a9c7b04d407343db4d54ed3f2f34)
 
 ![](images/result.png)
 
